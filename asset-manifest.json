@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Demola/static/css/main.0881c4d9.css",
+    "main.js": "/Demola/static/js/main.561dac24.js",
+    "static/js/453.1b7856cd.chunk.js": "/Demola/static/js/453.1b7856cd.chunk.js",
+    "index.html": "/Demola/index.html",
+    "main.0881c4d9.css.map": "/Demola/static/css/main.0881c4d9.css.map",
+    "main.561dac24.js.map": "/Demola/static/js/main.561dac24.js.map",
+    "453.1b7856cd.chunk.js.map": "/Demola/static/js/453.1b7856cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0881c4d9.css",
+    "static/js/main.561dac24.js"
+  ]
+}
